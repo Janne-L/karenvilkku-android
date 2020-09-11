@@ -19,7 +19,7 @@ enableTestUI=true
 ```
 
 ## Backend
-See [koronavilkku-backend](https://github.com/THLfi/koronavilkku-backend) for information on application backend.
+See [karenvilkku-backend](https://github.com/Janne-L/karenvilkku-backend) for information on application backend.
 
 ## Contributing
 
