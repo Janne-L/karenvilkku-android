@@ -1,4 +1,4 @@
-# COVID-19 Exposure Notifications Android app for Finland
+# Karen exposure notification app
 
 This is the COVID-19 exposure notifications Android app for the Finnish Institute for Health and Welfare (THL). It uses Exposure Notifications API which is a joint effort between Apple and Google to provide the core functionality for building iOS and Android apps to notify users of possible exposure to confirmed COVID-19 cases.
 
